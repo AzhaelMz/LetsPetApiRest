@@ -1,0 +1,1 @@
+alter table caregivers add telephone varchar(20) not null;
